@@ -23,9 +23,9 @@ My name is Ariful Islam . I am from Bangladesh . I am studying at National Unive
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arifulislam10111999&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arifulislam10111999)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arifulislam10111999)  
 
-![GitHub metrics](https://metrics.lecoq.io/arifulislam10111999)  
+![GitHub metrics](https://metrics.lecoq.io/arifulislam10111999)   -->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=arifulislam10111999)  
 
